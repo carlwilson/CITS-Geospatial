@@ -1,0 +1,24 @@
+- title: "Specification"
+  href: "/"
+
+- title: "PDF"
+  href: "/pdf/eark-geo.pdf"
+
+- title: "Profile"
+  href: "/profile/"
+
+- title: "Guidelines"
+  href: "/guideline/"
+
+- title: "Archive"
+  href: "/archive/"
+
+- title: "About"
+  href: "/"
+  subcategories:
+    - subtitle: "DILCIS"
+      subextref: "https://dilcis.eu/"
+    - subtitle: "On GitHub"
+      subextref: "https://github.com/DILCISBoard/CITS-GEOSPATIAL"
+    - subtitle: "Download"
+      subextref: "https://github.com/DILCISBoard/CITS-GEOSPATIAL/archive/master.zip"
